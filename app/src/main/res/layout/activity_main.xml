@@ -117,7 +117,7 @@
                     android:layout_weight="1"
                     android:textStyle="bold"
                     android:textSize="18sp"
-                    android:textColor="@color/black"
+                    android:textColor="@color/purple"
                     android:text="Patrocinadores" />
 
                 <TextView
