@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UDOLegue</string>
+    <string name="intro_title"><font color="#00561"><b>MAS QUE UNA LIGA UN SENTIMIENTO</b> </font></string>
+    <string name="intro_subtitle">Bienvenido a la aplicación oficial de la UDO Legue la liga de fútbol de la Universidad de Oriente Núcleo de Anzoategui</string>
+    <string name="intro_signin">¿Ya tienes una cuenta? <font color="#00561"><b>Iniciar sesión</b></font></string>
+</resources>
