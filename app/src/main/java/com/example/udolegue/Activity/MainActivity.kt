@@ -1,7 +1,8 @@
-package com.example.udolegue
+package com.example.udolegue.Activity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.udolegue.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

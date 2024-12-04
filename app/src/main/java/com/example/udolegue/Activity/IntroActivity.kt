@@ -1,9 +1,7 @@
-package com.example.udolegue.activity
+package com.example.udolegue.Activity
 
 import android.content.Intent
 import android.os.Bundle
-import androidx.appcompat.app.AppCompatActivity
-import com.example.udolegue.MainActivity
 import com.example.udolegue.databinding.ActivityIntroBinding
 
 class IntroActivity : BaseActivity() {

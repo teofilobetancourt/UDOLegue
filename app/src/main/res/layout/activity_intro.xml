@@ -4,7 +4,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activity.IntroActivity">
+    tools:context=".Activity.IntroActivity">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -46,7 +46,7 @@
             <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/startBtn"
                 style="@style/Widget.AppCompat.Button.Colored"
-                android:background="@drawable/black_button_bg"
+                android:background="@drawable/darkteal_bg"
                 android:layout_margin="32dp"
                 android:textColor="@color/white"
                 android:textStyle="bold"
